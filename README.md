@@ -16,7 +16,7 @@ Este proyecto no va a consumir APIs externas en tiempo real. Los datos se obtien
     - Obtenemos las variables de Temperatura y humedad relativa
 - [AEMET](https://www.aemet.es/es/eltiempo/prediccion/radiacionuv?w=0&zona=penyb&datos=det) 
     - Obtenemos el UVI máximo diario
-- [Junta de Andalucia - REDIAM (calidad del aire)](https://ws041.juntadeandalucia.es/pentaho/api/repos/%3Apublic%3ACalidad_Aire%3ACalidad_Aire.wcdf/generatedContent)
+- [Junta de Andalucia - REDIAM (calidad del aire)](https://www.juntadeandalucia.es/medioambiente/cas/autorizarAplicacionAnonima?codigo=PTHICA)
     - Obtenemos PM2.5
     
 Estas tres fuentes nos permiten la reutilización de sus datos siempre y cuando se les cite.
