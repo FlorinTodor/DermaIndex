@@ -82,4 +82,16 @@ Este proyecto no va a consumir APIs externas en tiempo real. Los datos se obtien
 *   **Málaga:** [`https://www.aemet.es/xml/municipios_h/localidad_h_29067.xml`](https://www.aemet.es/xml/municipios_h/localidad_h_29067.xml)
 *   **Sevilla:** [`https://www.aemet.es/xml/municipios_h/localidad_h_41091.xml`](https://www.aemet.es/xml/municipios_h/localidad_h_41091.xml)
 
+## Historias de usuarios
+[HUs](docs/user-stories.md)
+
+## Milestones
+[Milestones](docs/milestones.md)
+
+## Usuarios
+[Users](docs/users.mds)
+
+##Glosario
+[Glosario](docs/glossary.md)
+
 ## [Configuración inicial (git and ssh)](evidencias/configuracion_inicial.md)
