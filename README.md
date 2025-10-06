@@ -91,7 +91,7 @@ Este proyecto no va a consumir APIs externas en tiempo real. Los datos se obtien
 ## Usuarios
 [Users](docs/users.mds)
 
-##Glosario
+## Glosario
 [Glosario](docs/glossary.md)
 
 ## [Configuración inicial (git and ssh)](evidencias/configuracion_inicial.md)
