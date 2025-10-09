@@ -1,6 +1,6 @@
-# Personas del Proyecto DermalIndex
+# Personas del Proyecto DermaIndex
 
-Este documento describe los diferentes tipos de usuarios (personas) que interactuarán con el proyecto DermalIndex, proporcionando una comprensión de sus características y motivaciones clave.
+Este documento describe los diferentes tipos de usuarios (personas) que interactuarán con el proyecto DermaIndex, proporcionando una comprensión de sus características y motivaciones clave.
 
 ---
 ## Pedro, el Usuario Preocupado por la Dermatitis
