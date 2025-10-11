@@ -8,15 +8,12 @@ Este documento detalla los hitos clave para el desarrollo del proyecto
 *   **HU Relacionadas:** Indirectamente soporta todas las HU, proporcionando la infraestructura.
 *   **Será valido si:**
 
-    *   [ ] La arquitectura modular del proyecto ha sido definida y documentada, incluyendo decisiones clave de diseño.
-    *   [ ] El entorno de desarrollo para el equipo está configurado, versionado y es completamente funcional
-    *   [ ] Los modelos de datos iniciales para la información ambiental están definidos, aprobados y documentados.
-    *   [ ] Los esquemas de base de datos o estructuras de almacenamiento persistente están creados.
+    *   [ ] La arquitectura modular del proyecto ha sido descrita en un documento accesible para todo el equipo. Esta descripción identifica los componentes principales, sus responsabilidades y cómo se relacionan entre ellos.
+    *   [ ] Los modelos de datos iniciales han sido definidos en un documento único y compartido, especificando la estructura de la información, cada campo, su tipo de dato y su propósito.
     *   [ ] Aprobación del Product Manager (JJ): El Product Manager ha revisado y aprobado la propuesta de arquitectura y los modelos de datos iniciales como la base sólida para el proyecto.
 
-
 ---
-## [M1] Sistema de Recopilación y Consolidación de Datos Ambientales
+## [M1] Datos Ambientales Diarios Disponibles en la Plataforma
 
 *   **Objetivo:** Disponer de un sistema robusto que recopila y consolida automáticamente los datos ambientales diarios necesarios para el cálculo del DermaIndex.
 *   **HU Relacionadas:** [HU1] Pedro, [HU2] Paco, [HU3] Sara, [HU4] María 
