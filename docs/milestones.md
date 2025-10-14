@@ -5,7 +5,7 @@ Este documento detalla los hitos clave para el desarrollo del proyecto
 ## [M0] Base Arquitectónica y Modelos de Datos Iniciales
 
 *   **Objetivo:** Establecer la estructura técnica fundamental del proyecto y los modelos de datos esenciales para la gestión inicial de la información ambiental. Este hito sienta las bases para futuras funcionalidades.
-*   **HU Relacionadas:** Indirectamente soporta todas las HU, proporcionando la infraestructura.
+*   **HU Relacionadas:** [HU1] Pedro, [HU2] Paco
 *   **Será valido si:**
 
     *   [ ] La arquitectura modular del proyecto ha sido descrita en un documento accesible para todo el equipo. Esta descripción identifica los componentes principales, sus responsabilidades y cómo se relacionan entre ellos.
@@ -16,7 +16,7 @@ Este documento detalla los hitos clave para el desarrollo del proyecto
 ## [M1] Datos Ambientales Diarios Disponibles en la Plataforma
 
 *   **Objetivo:** Disponer de un sistema robusto que recopila y consolida automáticamente los datos ambientales diarios necesarios para el cálculo del DermaIndex.
-*   **HU Relacionadas:** [HU1] Pedro, [HU2] Paco, [HU3] Sara, [HU4] María 
+*   **HU Relacionadas:** [HU1] Pedro, [HU2] Paco
 *   **Será valido si:**
     *   [ ] Un sistema automático para la extracción diaria de datos ambientales de las fuentes designadas (ej. AEMET) está implementado y operativo.
     *   [ ] Los datos extraídos se fusionan, estandarizan y almacenan en la estructura de datos definida en M0 de forma consistente.
@@ -28,8 +28,8 @@ Este documento detalla los hitos clave para el desarrollo del proyecto
 ---
 ## [M2] Cálculo y Recomendaciones Diarias
 
-*   **Objetivo:** Contar con un componente funcional capaz de calcular el DermaIndex diario y generar recomendaciones cualitativas basadas en él, permitiendo a los usuarios obtener información actionable.
-*   **HU Relacionadas:** [HU1] Pedro, [HU2] Paco, [HU3] Sara
+*   **Objetivo:** Contar con un componente funcional capaz de calcular el DermaIndex **para un día concreto (actual o futuro)** y generar recomendaciones cualitativas basadas en él, permitiendo a los usuarios obtener información actionable.
+*   **HU Relacionadas:** [HU1] Pedro, [HU2] Paco
 * Será valido si:
     *   [ ] La lógica completa para el cálculo del DermaIndex diario está implementada, siguiendo las especificaciones del algoritmo.
     *   [ ] El módulo de generación de recomendaciones cualitativas, basado en el DermaIndex, funciona correctamente y produce salidas coherentes.
